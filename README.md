@@ -1,6 +1,6 @@
 # Awesome get weather cli
 
-Это простая утилита позволяет узнать погоду за сегодня с помощью команды <code>weather</code>
+Эта простая утилита позволяет узнать погоду за сегодня с помощью всего одной команды <code>weather</code>
 
 <img src="https://raw.githubusercontent.com/KarinaKarapetyanWeb/projects/master/img/weather.png" width="350" height="100"/>
 

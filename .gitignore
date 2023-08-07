@@ -1,0 +1,35 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+build/**
+dist/**
+.next/**
+
+# misc
+.DS_Store
+.env
+Thumbs.db
+
+# IDE
+.idea
+*.sublime*
+.vscode
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/*/globalTypes.ts
+
+### Turbo ###
+# Turborepo task cache
+.turbo
+
+src/locales/ru/translation.json
