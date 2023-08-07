@@ -2,7 +2,7 @@
 
 Это простая утилита позволяет узнать погоду за сегодня с помощью команды <code>weather</code>
 
-<img src="https://raw.githubusercontent.com/KarinaKarapetyanWeb/projects/master/img/weather.png" width="250" height="100"/>
+<img src="https://raw.githubusercontent.com/KarinaKarapetyanWeb/projects/master/img/weather.png" width="350" height="100"/>
 
 <h2>Установка</h2>
 
